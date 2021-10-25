@@ -26,6 +26,7 @@
          url('../fonts/ubuntu-v15-latin-regular.svg#Ubuntu') format('svg'); /* Legacy iOS */
   }
 
+/* ALL SECTIONS */
 body {
     font-size: 18px;
     line-height: 40px;
@@ -49,9 +50,9 @@ h2 {
     color: #444444;
 }
 
-/* section.origin h2:nth-last-child {
-    color: white;
-} */
+strong {
+    color: black;
+}
 
 .container {
     width: 70%;
@@ -65,9 +66,33 @@ header, footer {
     text-align: center;
 }
 
+section, header, footer {
+    padding: 20px 0 20px;
+}
+
+
+/* ORIGINES SECTION */
 .origin {
     background-color: #f3f3f3;
 }
+
+.div_origin p {
+    padding: 0 20px;
+}
+
+.green_text {
+    color: green;
+}
+
+
+/* INGREDIENTS SECTION */
+
+ul {
+    list-style-image: url(/check.png)
+}
+
+
+/* PREPARATION SECTION */
 
 .preparation {
     background-color: #76cdcd;
@@ -81,9 +106,12 @@ div.div_preparation h2 {
     color: white;
 }
 
-section, header, footer {
-    padding: 20px 0 20px;
+.text_margin {
+    width: 50%;
+    margin: 0 auto;
 }
+
+/* FOOTER SECTION */
 
 footer {
     font-size: 13px;
@@ -93,19 +121,6 @@ footer div.container p {
     margin: 0;
 }
 
-.div_origin p {
-    padding: 0 20px;
-}
 
-.text_margin {
-    width: 50%;
-    margin: 0 auto;
-}
 
-ul {
-    list-style-image: url(/check.png)
-}
 
-.green_text {
-    color: green;
-}
