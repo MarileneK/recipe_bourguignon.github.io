@@ -1,0 +1,53 @@
+
+********************** TP BOEUF BOURGUIGNON ***********************
+
+Le but de l'exercice est de reproduire au plus près la capture d'écran mise à disposition.
+Certaines informations sont detaillées plus bas, d'autres devront êtres déduites si elles ne sont pas mentionnées.
+Veillez particulièrement sur les marges et espacements à estimer.
+
+Détectez sur la capture d'ecran les differentes zones principales à mettre en oeuvre.
+Leurs couleurs de fond seront successivement : #686a6a / #f3f3f3 / #fff / #76cdcd
+
+Chaque zone possede un conteneur de 70% de large, autocentré et possedant un contour en pointillé gris de 4px.
+
+La taille du texte par defaut sera de 30px, interlignage de 40px couleur #666666, la police a mettre en oeuvre est le ubuntu.
+
+Le titre principal possède une taille de 100px et un espacement de lettre de 5px.
+Les intertitres feront 60px et auront une couleur #444444 pour les plus sombres d'entre eux.
+L'ensemble des titres utilisera la police Bebas Neue.
+
+Il vous est demandé de mettre en oeuvre une normalisation des héritages css, ainsi que de récuperer en local l'ensemble des polices, toutes trouvables sur google fonts, afin d'optimiser le temps de chargement de votre page.
+
+Bon code !
+
+
+******************* CONTENU TEXTE ***********************
+
+
+Boeuf Bourguignon
+
+Origines
+Plat dominical traditionnel, le bœuf bourguignon est un mets originaire de Bourgogne, en France. Il tient son nom des deux produits bourguignons qui le composent : le bœuf et le vin rouge. La Bourgogne étant traditionnellement réputée pour ses élevages bovins, en particulier de charolaise du pays Charolais, et la réputation des vins de son vignoble, en particulier des vins du vignoble de la côte de Nuits et du vignoble de la côte de Beaune. Le bœuf bourguignon est un plat emblématique de la cuisine bourguignonne et de son terroir.
+
+Ingrédients
+800 g de boeuf pour bourguignon
+100 g de lardons
+50 g de beurre ou 3 cuillères à soupe d'huile
+666.5 ml de vin rouge 
+2 oignons 
+1 gousse d'ail 
+2 cuillères à soupe de farine 
+1 bouquet garni 
+250 g de champignon de Paris (en boîte)
+Sel & poivre
+
+Préparation
+Hacher les oignons. Peler l'ail. 
+Dans une cocotte minute, faire roussir la viande et les lardons dans l’huile ou le beurre. 
+Ajouter les oignons, les champignons égouttés et saupoudrer de fariner. Mélanger et laisser dorer un instant. 
+Mouiller avec le vin rouge qui doit recouvrir la viande. 
+Saler et poivrer. 
+Ajouter l’ail et le bouquet garni. 
+Fermer la cocotte minute. 
+Laisser cuire doucement 60 min à partir de la mise en rotation de la soupape. 
+

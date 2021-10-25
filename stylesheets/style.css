@@ -1,0 +1,111 @@
+/* bebas-neue-regular - latin */
+@font-face {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    src: url('..fonts/bebas-neue-v2-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('..fonts/bebas-neue-v2-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('..fonts/bebas-neue-v2-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('..fonts/bebas-neue-v2-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('..fonts/bebas-neue-v2-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('..fonts/bebas-neue-v2-latin-regular.svg#BebasNeue') format('svg'); /* Legacy iOS */
+  }
+
+/* ubuntu-regular - latin */
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/ubuntu-v15-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('../fonts/ubuntu-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/ubuntu-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/ubuntu-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/ubuntu-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/ubuntu-v15-latin-regular.svg#Ubuntu') format('svg'); /* Legacy iOS */
+  }
+
+body {
+    font-size: 18px;
+    line-height: 40px;
+    color: #666666;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #444444;
+}
+
+/* section.origin h2:nth-last-child {
+    color: white;
+} */
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    border: 2px dotted lightgrey;
+}
+
+header, footer {
+    background-color: #686a6a;
+    color: white;
+    text-align: center;
+}
+
+.origin {
+    background-color: #f3f3f3;
+}
+
+.preparation {
+    background-color: #76cdcd;
+}
+
+div.div_preparation h2 {
+    color: white;
+}
+
+.div_preparation {
+    color: white;
+}
+
+section, header, footer {
+    padding: 20px 0 20px;
+}
+
+footer {
+    font-size: 13px;
+}
+
+footer div.container p {
+    margin: 0;
+}
+
+.div_origin p {
+    padding: 0 20px;
+}
+
+.text_margin {
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-image: url(/check.png)
+}
+
+.green_text {
+    color: green;
+}
