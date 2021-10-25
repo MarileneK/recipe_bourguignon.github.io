@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../03-selecteurs"
+		},
+		{
+			"path": "../../02-texte"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../tp-22-10-2021_correction"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tp-22-10-2021",
+		"liveServer.settings.port": 5501
+	}
+}
